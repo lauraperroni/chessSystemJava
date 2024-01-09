@@ -1,5 +1,5 @@
 package application;
-import entities.Position;
+import boardgame.Position;
 
 class Program {
 
